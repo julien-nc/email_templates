@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<info>
+	<id>email_templates</id>
+	<name>Custom email templates</name>
+	<summary>Cutomize the Nextcloud email templates</summary>
+	<description><![CDATA[Define custom email templates in Nextcloud]]></description>
+	<version>1.0.0</version>
+	<licence>agpl</licence>
+	<author>Julien Veyssier</author>
+	<namespace>EmailTemplates</namespace>
+	<documentation>
+		<developer>https://github.com/nextcloud/email_templates</developer>
+	</documentation>
+	<category>tools</category>
+	<website>https://github.com/nextcloud/email_templates</website>
+	<bugs>https://github.com/nextcloud/email_templates/issues</bugs>
+	<screenshot>https://github.com/nextcloud/email_templates/raw/main/img/screenshot1.jpg</screenshot>
+	<dependencies>
+		<nextcloud min-version="29" max-version="32"/>
+	</dependencies>
+</info>
