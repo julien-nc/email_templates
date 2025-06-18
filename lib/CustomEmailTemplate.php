@@ -3,6 +3,7 @@
 namespace OCA\EmailTemplates;
 
 use OC\Mail\EMailTemplate as ParentTemplate;
+
 class CustomEmailTemplate extends ParentTemplate {
 
 	public function setSubject(string $subject): void {
